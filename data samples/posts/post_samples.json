@@ -1,0 +1,7 @@
+/*I made that file so I can see things without having to get to API every time*/
+{
+  "userId": 1,
+  "id": 1,
+  "title": "some title",
+  "body": "some body"
+}
