@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+This project is mainly focuse on the principles of clean architecture not the design .
 
-This project is a starting point for a Flutter application.
+<a href="url"><img src="https://user-images.githubusercontent.com/73183702/212224907-a051774d-2b6a-41f1-b81e-7e52835e2611.jpg" align="left" height="600" width="300" ></a>
 
-A few resources to get you started if this is your first Flutter project:
+<a href="url"><img src="https://user-images.githubusercontent.com/73183702/212224907-a051774d-2b6a-41f1-b81e-7e52835e2611.jpg" align="left" height="600" width="300" ></a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://user-images.githubusercontent.com/73183702/212224960-cb9e5ade-89be-4b9a-a556-ae61c8f28f03.jpg" align="left" height="600" width="300" ></a>
+
+
